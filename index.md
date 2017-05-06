@@ -9,8 +9,10 @@
 
 [Java - Java/MySQL TVShow Database Application(Team Project): ](https://github.com/businessprogramming3/tvdbfinal)
 
+[Java - Java/MySQL Happy Dap Social Media Application(Team Project): ](https://github.com/walterd04/happydayapp2)
+
 ### Contact: 
-Email : walterd04@mounties.mansfield.edu
+Email : walterd04@mansfield.edu
 
 
 
